@@ -9,4 +9,6 @@ Any sharing, redistribution, or derivative work based on this code is strictly p
 This project automates the drone practical evaluation process to address disputes over fairness, which have arisen because assessments still rely heavily on the subjective judgment of human examiners.  
 To measure the drone’s position with high precision, the system uses Real-Time Kinematic (RTK) technology.
 
-<iframe src="./Manual.pdf" width="100%" height="600"></iframe>
+[![Manual Preview](./preview.png)](./Manual.pdf)
+
+Click the preview image to open the full PDF manual.
